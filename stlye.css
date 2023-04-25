@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: tomato;
+    font-style: italic;
+}
+
+.con{
+    color: crimson;
+    line-height: 40px;
+}
+
+.td{
+    text-decoration: line-through;
+}
+
+.bg{
+    background-color: yellow;
+}
+
+.i{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.sm{
+    color: tomato;
+    font-style: italic;
+}
+
+.ls{
+    letter-spacing: 5px;
+    line-height: 24px;
+    color: crimson;
+}
+
+.bg2{
+    background-color: yellow;
+}
+
+.con2{
+    color: crimson;
+    font-size: 18px;
+}
+
+a{
+    color: crimson;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
